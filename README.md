@@ -1,6 +1,7 @@
 # Hidden
 
 Hidden has been developed like a solution for reverse engineering and researching tasks. This is a windows driver with a usermode interface which is used for hiding specific environment on your windows machine, like installed RCE programs (ex. procmon, wireshark), vm infrastracture (ex. vmware tools) and etc. 
+此项目是用来隐藏文件、注册表、进程，启动隐藏的进程。在驱动中实现，有应用层接口。
 
 ## Features
 
